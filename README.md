@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lawrence</h1>
 <h3 align="center">Jr. Full Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lawrencedulian&label=Profile%20views&color=0e75b6&style=flat" alt="lawrencedulian" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lawrencedulian" alt="lawrencedulian" /></a> </p>
-
 - 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **lawrenceedulian@gmail.com**
@@ -20,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lawrencedulian&show_icons=true&locale=en&layout=compact" alt="lawrencedulian" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lawrencedulian&show_icons=true&locale=en" alt="lawrencedulian" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lawrencedulian&" alt="lawrencedulian" /></p>
